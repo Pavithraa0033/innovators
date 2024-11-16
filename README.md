@@ -42,7 +42,7 @@ SS of Procrastination Generator
 SS of execuse generator
 ### Project Demo
 # Video
-[[Add your demo video link here]](https://github.com/Pavithraa0033/innovators/blob/main/Recording%202024-11-03%20071822.mp4)
+[[]](https://github.com/Pavithraa0033/innovators/blob/main/Recording%202024-11-03%20071822.mp4)
 Demo of procrastination
 
 
